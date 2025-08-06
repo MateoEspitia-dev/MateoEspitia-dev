@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mateo Espitia</h1>
+<h3 align="center">A passionate Junior Fullstack Developer with a background in Python (Django REST Framework) and React, developed through building an intelligent monitoring platform that integrated IoT data from ESP32 devices with AI-powered anomaly detection. This project achieved a 93-point score in the EDESI 2025 COL-NDS regional research exhibition. My experience spans API development, database management, and frontend visualization, with a focus on creating integrated software solutions capable of interfacing with and leveraging existing AI systems. Looking for remote roles where I can apply and expand my skills in building robust, product-driven software.</h3>
 
-<!--
-**MateoEspitia-dev/MateoEspitia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateoespitia-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mateoespitia-dev" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateoespitia-dev" alt="mateoespitia-dev" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Mateedev Automation](startup.mateedev.com)
+
+- 🌱 I’m currently learning **N8N - CREWIA with Django Integration**
+
+- 👯 I’m looking to collaborate on **Administrative Automation Systems and Intelligent Business Process Optimization and AIaaS (AI as a Service)**
+
+- 🤝 I’m looking for help with **StartUps with AI Automation**
+
+- 👨‍💻 All of my projects are available at [portfolio.mateedev.com](portfolio.mateedev.com)
+
+- 💬 Ask me about **SENA ADSO Experience**
+
+- 📫 How to reach me **mateoespit@gmail.com**
+
+- 📄 Know about my experiences [Junior Fullstack Developer (Internship) | SENA - Tesla Research Seedbed Cúcuta, Colombia September 2024–March 2025 ● Led the technical development of a full-stack intelligent monitoring platform, achieving a 93-point score in the EDESI 2025 regional research exhibition. This involved developing a robust backend API using Django REST Framework (Python) and PostgreSQL for real-time data ingestion from ESP32 devices (C++ Arduino), resolving ESP-NOW connection challenges, slave-master handling, and data packet assembly through targeted debugging. ● Built an interactive frontend dashboard with React.js and Vite, featuring multiple panels for real-time polygonal graphs, historical data recounts, and anomaly detection visualization, consuming data from the Django API and integrating a third-party OpenWeatherMap API for predictions. ● Implemented an ARIMA-based AI model for real-time anomaly detection, trained on a CSV dataset generated from API-ingested sensor data in Google Colab, and integrated directly into the Django REST API to analyze incoming sensor data and trigger real-time anomaly alarms. This included optimizing the model's performance through iterative parameter and threshold adjustments (e.g., preprocessing, frequency for timestamps) to ensure functional effectiveness across edaphoclimatic variables. ● Conducted extensive functional API testing using Postman to verify endpoint integrity and identify potential errors, ensuring reliable data flow. ● Contributed significantly to the formulation and documentation of an R&D&I (Research, Development, and Innovation) project, including methodology, theoretical framework, and results, leading to two articles currently pending publication in SENA journals.](Junior Fullstack Developer (Internship) | SENA - Tesla Research Seedbed Cúcuta, Colombia September 2024–March 2025 ● Led the technical development of a full-stack intelligent monitoring platform, achieving a 93-point score in the EDESI 2025 regional research exhibition. This involved developing a robust backend API using Django REST Framework (Python) and PostgreSQL for real-time data ingestion from ESP32 devices (C++ Arduino), resolving ESP-NOW connection challenges, slave-master handling, and data packet assembly through targeted debugging. ● Built an interactive frontend dashboard with React.js and Vite, featuring multiple panels for real-time polygonal graphs, historical data recounts, and anomaly detection visualization, consuming data from the Django API and integrating a third-party OpenWeatherMap API for predictions. ● Implemented an ARIMA-based AI model for real-time anomaly detection, trained on a CSV dataset generated from API-ingested sensor data in Google Colab, and integrated directly into the Django REST API to analyze incoming sensor data and trigger real-time anomaly alarms. This included optimizing the model's performance through iterative parameter and threshold adjustments (e.g., preprocessing, frequency for timestamps) to ensure functional effectiveness across edaphoclimatic variables. ● Conducted extensive functional API testing using Postman to verify endpoint integrity and identify potential errors, ensuring reliable data flow. ● Contributed significantly to the formulation and documentation of an R&D&I (Research, Development, and Innovation) project, including methodology, theoretical framework, and results, leading to two articles currently pending publication in SENA journals.)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="as" height="30" width="40" /></a>
+<a href="https://dev.to/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="as" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="as" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="as" height="30" width="40" /></a>
+<a href="https://codesandbox.com/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="as" height="30" width="40" /></a>
+<a href="https://kaggle.com/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="as" height="30" width="40" /></a>
+<a href="https://dribbble.com/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="as" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="as" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="as" height="30" width="40" /></a>
+<a href="https://discord.gg/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="as" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateoespitia-dev&show_icons=true&locale=en&layout=compact" alt="mateoespitia-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateoespitia-dev&show_icons=true&locale=en" alt="mateoespitia-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateoespitia-dev&" alt="mateoespitia-dev" /></p>
+
