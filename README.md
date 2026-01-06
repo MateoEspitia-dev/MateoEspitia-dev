@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **StartUps with AI Automation**
 
-- 👨‍💻 All of my projects are available at [portfolio.mateedev.com](portfolio.mateedev.com)
+- 👨‍💻 All of my projects are available at [portfolio.mateedev.com]((https://portfollio.mateedev.com/))
 
 - 💬 Ask me about **SENA ADSO Experience**
 
